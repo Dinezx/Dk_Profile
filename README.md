@@ -11,9 +11,15 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a Data Analyst who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
-  </p>
+  I'm an AI & Data Science student with strong interests in Artificial Intelligence, Machine Learning, and Data Analytics. 
+  I specialize in building data-driven solutions, predictive models, and automation systems using Python and Microsoft technologies.
+  I enjoy transforming raw data into meaningful insights and developing applications that solve real-world problems.
+</p>
+
+<p>
+  I have hands-on experience in Machine Learning projects, time series forecasting, workflow automation using PowerApps & Power Automate, 
+  and building analytical dashboards using Power BI.
+</p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
@@ -75,7 +81,7 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,flutter,nextjs,tailwind,bootstrap" />
 </td>
 
 
@@ -84,7 +90,7 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,supabase" />
 <br/><br/>
 
 </td>
