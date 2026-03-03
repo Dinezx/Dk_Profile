@@ -112,22 +112,8 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Dinezx&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
----
 
-## ❤️ Support Me
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
-# Hi, I'm Dinesh Kumar S
-
-My full profile README is here:
-➡️ https://github.com/Dinezx/Dk_Profile#readme
-
-Or open the source file directly:
-➡️ https://github.com/Dinezx/Dk_Profile/blob/main/README.md
